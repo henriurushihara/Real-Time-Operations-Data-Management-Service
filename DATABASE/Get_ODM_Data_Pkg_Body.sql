@@ -1,4 +1,6 @@
 
+--package body
+
 CREATE OR REPLACE PACKAGE BODY Get_ODM_Data_Pkg AS 
 
   PROCEDURE Get_Division_List(p_json OUT CLOB) IS

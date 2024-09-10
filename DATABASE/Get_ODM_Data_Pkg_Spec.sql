@@ -1,4 +1,6 @@
 
+--package spec
+
 CREATE OR REPLACE PACKAGE Get_ODM_Data_Pkg AS 
   PROCEDURE Get_Division_List(p_json OUT CLOB);
   PROCEDURE Get_Division_Summary_Data(p_json OUT CLOB);
