@@ -1,9 +1,9 @@
-
 from data_helper import DataHelper
 from fastapi import FastAPI, Depends, HTTPException
 from typing import List
 import logging
 import json
+from models import Division, DivisionSummary, WellSummary, WellSummaryByDay  # Import the models
 
 app = FastAPI()
 
