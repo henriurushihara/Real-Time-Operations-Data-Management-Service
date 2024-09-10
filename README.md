@@ -1,4 +1,15 @@
 
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0** license.
+
+- You may download and view the code for personal or non-commercial purposes.
+- You may not modify, distribute, or use this work for commercial purposes without explicit permission from the author, 
+**Henri F. Urushihara**.
+
+[Full License Details](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+
+
 Setting Up the Development Environment
 
 1. Clone the repository.
