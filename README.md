@@ -9,16 +9,16 @@ To ensure the project dependencies are properly managed and isolated, follow the
 
 2. Create the Virtual Environment
 
-In the root of your project directory, run the following command in your terminal to create a virtual environment:
+In the root of your project directory, run the following command in a bash terminal to create a virtual environment:
 
 python -m venv venv
 
 3. Activate the Virtual Environment
 
 For Windows:
-Run the following command in your terminal (i.e. PowerShell or Command Prompt):
+Run the following command in your terminal
 
-.\venv\Scripts\activate
+source venv/Scripts/activate
 
 For macOS/Linux:
 Run the following command in your terminal:
