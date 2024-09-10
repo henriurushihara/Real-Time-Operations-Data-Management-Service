@@ -1,0 +1,6 @@
+oracledb
+uvicorn
+fastapi
+python-dotenv
+loguru
+pydantic
